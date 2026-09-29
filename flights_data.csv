@@ -1,0 +1,201 @@
+Carrier,Source,Destination,Date_of_Journey,Dep_Time,Arrival_Time,Duration,Duration_min,StopsCount,Class,Price_SAR
+Flynas,Al Qassim,Jeddah,11/05/2025,03:45,08:15,4h 30m,270,0,Economy,903
+Saudia,Hail,Riyadh,19/07/2025,13:00,17:28,4h 28m,268,0,Economy,995
+Saudia,Taif,Riyadh,12/01/2025,00:00,03:55,3h 55m,235,1,Business,1200
+Gulf Air,Medina,Najran,11/09/2025,17:15,20:51,3h 36m,216,0,Economy,805
+Flyadeal,Riyadh,Hail,12/10/2025,20:00,22:15,2h 15m,135,1,Economy,640
+Saudia,Taif,Al Qassim,05/08/2025,16:15,19:30,3h 15m,195,0,Business,1200
+Gulf Air,Tabuk,Riyadh,03/09/2025,07:45,11:57,4h 12m,252,1,Economy,1011
+Saudia,Hail,Al Qassim,25/02/2025,05:45,09:34,3h 49m,229,0,Economy,738
+Flyadeal,Al Qassim,Tabuk,29/03/2025,05:15,06:01,46m,46,1,Economy,438
+Flynas,Tabuk,Al Qassim,26/06/2025,18:30,23:05,4h 35m,275,2,Economy,1200
+Qatar Airways,Riyadh,Hail,20/09/2025,04:15,08:33,4h 18m,258,2,Economy,1200
+Gulf Air,Najran,Medina,16/09/2025,13:45,17:27,3h 42m,222,0,Economy,844
+Gulf Air,Al Qassim,Taif,23/08/2025,19:00,21:37,2h 37m,157,1,Economy,677
+Saudia,Najran,Abha,17/01/2025,21:00,22:22,1h 22m,82,1,Economy,477
+Flynas,Abha,Jeddah,05/04/2025,11:30,12:45,1h 15m,75,0,Economy,308
+Qatar Airways,Abha,Taif,21/08/2025,22:30,03:24,4h 54m,294,0,Economy,1140
+Flyadeal,Tabuk,Medina,13/05/2025,03:30,05:57,2h 27m,147,2,Economy,726
+Flynas,Riyadh,Hail,16/03/2025,01:15,05:43,4h 28m,268,1,Economy,1103
+Flynas,Najran,Hail,25/04/2025,16:00,20:02,4h 2m,242,1,Economy,995
+Saudia,Abha,Dammam,19/04/2025,01:30,02:46,1h 16m,76,1,Economy,464
+Qatar Airways,Dammam,Hail,17/10/2025,08:15,08:59,44m,44,0,Business,550
+Flynas,Al Qassim,Hail,29/03/2025,22:00,01:53,3h 53m,233,0,Economy,885
+Qatar Airways,Tabuk,Medina,10/09/2025,03:45,06:56,3h 11m,191,0,Economy,852
+Emirates,Abha,Riyadh,22/03/2025,06:30,08:19,1h 49m,109,0,Economy,444
+Emirates,Najran,Taif,01/10/2025,15:15,16:28,1h 13m,73,1,Economy,477
+Flynas,Najran,Medina,18/05/2025,10:30,14:18,3h 48m,228,0,Economy,784
+Gulf Air,Hail,Dammam,24/10/2025,17:00,20:24,3h 24m,204,0,Economy,689
+Flynas,Taif,Jeddah,28/10/2025,12:00,14:34,2h 34m,154,0,Business,1002
+Flyadeal,Al Qassim,Najran,28/02/2025,14:30,16:05,1h 35m,95,1,Economy,448
+Gulf Air,Riyadh,Dammam,31/07/2025,03:00,05:16,2h 16m,136,0,Business,924
+Flynas,Jeddah,Najran,27/03/2025,21:15,23:16,2h 1m,121,1,Economy,619
+Gulf Air,Abha,Al Qassim,10/05/2025,22:45,02:06,3h 21m,201,0,Economy,653
+Saudia,Riyadh,Taif,13/06/2025,14:45,18:05,3h 20m,200,0,Economy,721
+Gulf Air,Hail,Jeddah,09/05/2025,06:45,10:27,3h 42m,222,0,Economy,784
+Flynas,Medina,Tabuk,11/02/2025,08:00,12:29,4h 29m,269,0,Economy,933
+Flynas,Tabuk,Abha,22/01/2025,10:15,13:37,3h 22m,202,1,Economy,843
+Flynas,Taif,Jeddah,06/10/2025,19:00,21:45,2h 45m,165,0,Economy,637
+Saudia,Abha,Al Qassim,06/02/2025,23:00,23:51,51m,51,1,Economy,404
+Emirates,Hail,Dammam,21/02/2025,16:30,17:49,1h 19m,79,0,Economy,364
+Flynas,Dammam,Tabuk,06/06/2025,03:30,05:14,1h 44m,104,1,Economy,480
+Flyadeal,Al Qassim,Najran,16/04/2025,05:30,09:51,4h 21m,261,0,Economy,886
+Flyadeal,Jeddah,Najran,09/08/2025,17:30,21:54,4h 24m,264,1,Economy,1053
+Flyadeal,Dammam,Taif,06/09/2025,00:45,01:34,49m,49,0,Economy,222
+Gulf Air,Dammam,Medina,13/05/2025,08:45,12:50,4h 5m,245,0,Economy,899
+Saudia,Dammam,Al Qassim,12/06/2025,16:45,19:20,2h 35m,155,0,Economy,627
+Flynas,Tabuk,Taif,14/10/2025,19:30,22:02,2h 32m,152,0,Economy,626
+Qatar Airways,Taif,Dammam,19/09/2025,06:30,09:42,3h 12m,192,1,Economy,928
+Flynas,Hail,Jeddah,05/03/2025,19:45,21:55,2h 10m,130,0,Economy,575
+Qatar Airways,Riyadh,Najran,21/07/2025,22:30,02:26,3h 56m,236,0,Economy,857
+Gulf Air,Jeddah,Taif,21/02/2025,08:00,09:51,1h 51m,111,2,Economy,633
+Emirates,Medina,Hail,10/08/2025,12:15,15:41,3h 26m,206,0,Economy,870
+Flynas,Jeddah,Hail,01/10/2025,13:00,16:11,3h 11m,191,0,Economy,756
+Saudia,Medina,Al Qassim,13/08/2025,18:00,18:55,55m,55,1,Economy,391
+Flynas,Dammam,Taif,17/03/2025,17:15,20:14,2h 59m,179,0,Economy,691
+Flynas,Najran,Taif,09/09/2025,13:00,15:26,2h 26m,146,0,Economy,550
+Saudia,Riyadh,Dammam,19/10/2025,23:00,02:11,3h 11m,191,2,Economy,887
+Saudia,Najran,Taif,21/10/2025,09:45,14:42,4h 57m,297,1,Economy,1133
+Saudia,Jeddah,Najran,19/08/2025,11:30,15:34,4h 4m,244,0,Economy,918
+Emirates,Jeddah,Hail,15/07/2025,06:00,09:02,3h 2m,182,1,Economy,930
+Flynas,Hail,Al Qassim,29/07/2025,23:30,01:37,2h 7m,127,0,Economy,471
+Flyadeal,Najran,Riyadh,19/07/2025,18:45,22:52,4h 7m,247,0,Economy,798
+Emirates,Medina,Taif,11/01/2025,13:15,17:18,4h 3m,243,1,Economy,1023
+Gulf Air,Riyadh,Tabuk,16/05/2025,22:45,02:00,3h 15m,195,0,Economy,749
+Flynas,Hail,Al Qassim,24/01/2025,08:00,12:16,4h 16m,256,0,Economy,921
+Saudia,Dammam,Al Qassim,24/03/2025,22:00,02:05,4h 5m,245,1,Economy,972
+Flynas,Najran,Medina,02/05/2025,10:30,11:45,1h 15m,75,0,Economy,398
+Qatar Airways,Taif,Najran,19/09/2025,17:00,19:06,2h 6m,126,0,Economy,619
+Flyadeal,Taif,Medina,20/07/2025,17:45,19:53,2h 8m,128,0,Economy,580
+Flyadeal,Medina,Taif,06/05/2025,21:00,01:06,4h 6m,246,0,Economy,841
+Flyadeal,Medina,Jeddah,26/03/2025,18:45,20:40,1h 55m,115,1,Economy,639
+Flynas,Dammam,Medina,14/08/2025,11:30,15:35,4h 5m,245,0,Economy,853
+Saudia,Jeddah,Abha,23/07/2025,10:45,12:16,1h 31m,91,2,Economy,705
+Saudia,Medina,Riyadh,11/09/2025,22:45,02:20,3h 35m,215,1,Economy,961
+Qatar Airways,Dammam,Jeddah,24/04/2025,12:15,17:08,4h 53m,293,0,Economy,1097
+Flynas,Abha,Najran,08/10/2025,18:45,21:13,2h 28m,148,0,Economy,611
+Gulf Air,Jeddah,Abha,10/02/2025,01:00,01:42,42m,42,1,Economy,384
+Gulf Air,Abha,Medina,24/07/2025,05:15,06:10,55m,55,0,Economy,343
+Saudia,Al Qassim,Tabuk,11/05/2025,04:00,08:36,4h 36m,276,1,Economy,991
+Saudia,Najran,Riyadh,26/09/2025,04:00,07:00,3h 0m,180,1,Economy,748
+Saudia,Hail,Dammam,23/05/2025,21:15,01:44,4h 29m,269,0,Economy,913
+Qatar Airways,Medina,Abha,31/01/2025,18:15,21:54,3h 39m,219,0,Economy,923
+Saudia,Taif,Al Qassim,31/07/2025,17:15,21:32,4h 17m,257,2,Economy,1119
+Qatar Airways,Al Qassim,Jeddah,09/05/2025,05:00,06:57,1h 57m,117,0,Economy,556
+Saudia,Riyadh,Dammam,20/09/2025,15:30,17:00,1h 30m,90,2,Economy,686
+Saudia,Hail,Dammam,22/07/2025,22:45,23:37,52m,52,1,Economy,380
+Flyadeal,Jeddah,Taif,18/01/2025,12:00,14:53,2h 53m,173,0,Economy,656
+Saudia,Abha,Jeddah,06/08/2025,07:15,10:44,3h 29m,209,2,Economy,1007
+Gulf Air,Hail,Jeddah,08/03/2025,20:45,21:40,55m,55,1,Economy,399
+Qatar Airways,Dammam,Abha,09/07/2025,12:30,13:59,1h 29m,89,0,Economy,369
+Saudia,Abha,Al Qassim,10/06/2025,13:30,16:53,3h 23m,203,0,Economy,782
+Gulf Air,Riyadh,Al Qassim,04/03/2025,04:30,07:56,3h 26m,206,1,Economy,893
+Flyadeal,Hail,Najran,06/07/2025,23:45,01:05,1h 20m,80,2,Economy,554
+Saudia,Najran,Hail,22/10/2025,08:15,11:48,3h 33m,213,0,Business,1200
+Emirates,Abha,Najran,24/06/2025,17:15,18:09,54m,54,0,Economy,379
+Flynas,Jeddah,Medina,30/07/2025,23:00,00:30,1h 30m,90,2,Economy,577
+Flynas,Abha,Jeddah,20/10/2025,16:00,17:17,1h 17m,77,1,Economy,435
+Gulf Air,Tabuk,Riyadh,08/07/2025,15:30,18:02,2h 32m,152,1,Economy,676
+Emirates,Hail,Taif,06/10/2025,06:45,08:02,1h 17m,77,1,Business,881
+Emirates,Medina,Riyadh,30/09/2025,12:45,14:04,1h 19m,79,0,Business,747
+Gulf Air,Tabuk,Riyadh,30/06/2025,14:00,16:17,2h 17m,137,2,Economy,692
+Gulf Air,Jeddah,Taif,20/09/2025,23:30,02:34,3h 4m,184,0,Economy,724
+Emirates,Al Qassim,Abha,20/08/2025,09:15,14:14,4h 59m,299,0,Economy,1100
+Flyadeal,Riyadh,Hail,17/10/2025,01:30,05:45,4h 15m,255,0,Business,1200
+Saudia,Jeddah,Riyadh,16/07/2025,08:45,11:44,2h 59m,179,1,Economy,820
+Flyadeal,Tabuk,Najran,01/03/2025,15:30,17:24,1h 54m,114,0,Economy,426
+Flyadeal,Taif,Dammam,28/05/2025,13:30,16:37,3h 7m,187,1,Economy,831
+Flyadeal,Hail,Medina,09/09/2025,12:45,14:11,1h 26m,86,0,Economy,336
+Flynas,Riyadh,Dammam,10/05/2025,04:45,06:15,1h 30m,90,0,Economy,310
+Saudia,Tabuk,Riyadh,09/10/2025,06:45,10:22,3h 37m,217,0,Economy,717
+Qatar Airways,Najran,Tabuk,02/03/2025,08:30,10:41,2h 11m,131,0,Economy,506
+Flynas,Jeddah,Hail,05/03/2025,21:45,00:55,3h 10m,190,1,Economy,830
+Saudia,Al Qassim,Hail,24/02/2025,04:45,07:08,2h 23m,143,0,Economy,606
+Flyadeal,Hail,Al Qassim,20/04/2025,19:30,00:18,4h 48m,288,0,Economy,992
+Qatar Airways,Abha,Riyadh,04/10/2025,20:45,23:58,3h 13m,193,1,Economy,895
+Gulf Air,Abha,Taif,07/05/2025,13:15,15:01,1h 46m,106,0,Economy,511
+Saudia,Najran,Al Qassim,18/03/2025,13:30,16:33,3h 3m,183,0,Economy,714
+Flynas,Hail,Taif,29/08/2025,07:30,09:40,2h 10m,130,1,Economy,698
+Qatar Airways,Hail,Al Qassim,18/03/2025,01:30,03:19,1h 49m,109,1,Economy,609
+Flyadeal,Al Qassim,Hail,03/09/2025,10:00,11:45,1h 45m,105,1,Economy,532
+Saudia,Najran,Riyadh,16/10/2025,05:00,07:35,2h 35m,155,0,Economy,583
+Emirates,Taif,Riyadh,11/01/2025,09:15,10:38,1h 23m,83,1,Economy,627
+Flyadeal,Abha,Al Qassim,14/07/2025,00:00,03:28,3h 28m,208,0,Economy,700
+Qatar Airways,Al Qassim,Riyadh,27/06/2025,02:00,03:32,1h 32m,92,0,Economy,498
+Saudia,Taif,Riyadh,10/02/2025,04:45,08:35,3h 50m,230,2,Economy,1031
+Saudia,Taif,Abha,05/01/2025,16:30,18:07,1h 37m,97,0,Economy,363
+Gulf Air,Abha,Hail,16/02/2025,21:45,01:59,4h 14m,254,0,Economy,858
+Qatar Airways,Abha,Al Qassim,10/03/2025,01:00,03:09,2h 9m,129,0,Business,955
+Gulf Air,Riyadh,Taif,03/10/2025,08:30,13:12,4h 42m,282,0,Economy,981
+Saudia,Najran,Taif,06/10/2025,17:00,20:17,3h 17m,197,0,Economy,650
+Gulf Air,Dammam,Abha,05/09/2025,10:30,13:39,3h 9m,189,0,Economy,704
+Emirates,Tabuk,Jeddah,16/03/2025,08:30,09:14,44m,44,0,Economy,235
+Emirates,Najran,Jeddah,24/08/2025,00:45,05:01,4h 16m,256,0,Economy,1017
+Gulf Air,Hail,Riyadh,20/02/2025,15:00,15:40,40m,40,1,Economy,430
+Flynas,Najran,Al Qassim,02/07/2025,17:30,21:12,3h 42m,222,1,Economy,888
+Gulf Air,Medina,Jeddah,15/10/2025,11:15,12:54,1h 39m,99,1,Business,912
+Emirates,Taif,Abha,29/01/2025,19:45,23:57,4h 12m,252,0,Economy,988
+Emirates,Medina,Al Qassim,15/03/2025,01:30,03:08,1h 38m,98,1,Economy,678
+Emirates,Taif,Jeddah,26/10/2025,00:45,03:12,2h 27m,147,0,Economy,592
+Emirates,Medina,Jeddah,08/05/2025,10:30,13:15,2h 45m,165,1,Economy,863
+Flyadeal,Hail,Medina,10/08/2025,14:45,16:26,1h 41m,101,0,Business,671
+Flynas,Riyadh,Hail,01/08/2025,03:00,04:18,1h 18m,78,2,Economy,610
+Qatar Airways,Najran,Abha,21/03/2025,04:00,06:50,2h 50m,170,0,Economy,683
+Gulf Air,Tabuk,Riyadh,06/10/2025,07:45,09:46,2h 1m,121,1,Economy,584
+Saudia,Najran,Al Qassim,24/03/2025,05:45,06:36,51m,51,0,Economy,203
+Gulf Air,Medina,Al Qassim,02/10/2025,02:15,06:18,4h 3m,243,1,Economy,901
+Emirates,Jeddah,Al Qassim,18/02/2025,20:45,21:48,1h 3m,63,2,Economy,537
+Saudia,Abha,Najran,23/05/2025,23:45,01:50,2h 5m,125,0,Business,842
+Gulf Air,Hail,Al Qassim,02/08/2025,17:15,21:17,4h 2m,242,1,Economy,1012
+Flyadeal,Taif,Dammam,13/05/2025,18:30,20:39,2h 9m,129,1,Economy,639
+Flyadeal,Dammam,Taif,11/05/2025,08:30,12:26,3h 56m,236,0,Economy,786
+Flynas,Abha,Medina,11/04/2025,02:15,06:34,4h 19m,259,1,Economy,972
+Gulf Air,Hail,Tabuk,11/04/2025,02:00,03:58,1h 58m,118,1,Economy,617
+Emirates,Tabuk,Dammam,08/03/2025,21:00,23:43,2h 43m,163,1,Economy,787
+Qatar Airways,Tabuk,Taif,02/04/2025,07:30,09:23,1h 53m,113,0,Economy,456
+Gulf Air,Abha,Medina,26/08/2025,00:30,02:02,1h 32m,92,1,Economy,501
+Gulf Air,Riyadh,Jeddah,11/06/2025,05:15,06:47,1h 32m,92,0,Economy,466
+Flynas,Medina,Al Qassim,17/09/2025,12:00,14:28,2h 28m,148,1,Economy,736
+Flynas,Al Qassim,Abha,02/01/2025,22:00,00:23,2h 23m,143,2,Economy,832
+Gulf Air,Al Qassim,Medina,18/05/2025,01:15,06:12,4h 57m,297,0,Economy,1001
+Qatar Airways,Tabuk,Hail,20/05/2025,15:00,16:46,1h 46m,106,0,Economy,421
+Emirates,Medina,Hail,03/10/2025,10:15,11:43,1h 28m,88,0,Economy,458
+Emirates,Medina,Dammam,15/09/2025,06:45,10:29,3h 44m,224,0,Economy,957
+Saudia,Taif,Riyadh,23/08/2025,01:15,03:10,1h 55m,115,1,Business,1034
+Saudia,Al Qassim,Najran,03/02/2025,18:45,20:12,1h 27m,87,2,Economy,687
+Qatar Airways,Abha,Hail,18/05/2025,11:45,12:50,1h 5m,65,0,Business,641
+Saudia,Tabuk,Abha,12/06/2025,04:30,05:43,1h 13m,73,1,Economy,471
+Emirates,Tabuk,Al Qassim,13/01/2025,18:00,18:58,58m,58,0,Economy,334
+Flyadeal,Taif,Al Qassim,18/01/2025,20:30,21:47,1h 17m,77,0,Economy,409
+Emirates,Taif,Al Qassim,06/10/2025,00:15,03:41,3h 26m,206,0,Economy,894
+Flynas,Al Qassim,Jeddah,26/07/2025,10:45,14:29,3h 44m,224,2,Business,1200
+Flyadeal,Riyadh,Dammam,07/05/2025,08:45,11:50,3h 5m,185,0,Economy,614
+Qatar Airways,Dammam,Taif,31/07/2025,02:15,05:19,3h 4m,184,0,Economy,732
+Flynas,Jeddah,Taif,03/09/2025,01:30,03:54,2h 24m,144,1,Economy,672
+Flyadeal,Abha,Al Qassim,10/03/2025,01:45,05:31,3h 46m,226,1,Economy,918
+Emirates,Dammam,Al Qassim,21/01/2025,22:45,00:59,2h 14m,134,2,Economy,802
+Gulf Air,Dammam,Al Qassim,04/03/2025,23:30,04:04,4h 34m,274,0,Economy,978
+Flyadeal,Al Qassim,Taif,23/04/2025,20:00,20:47,47m,47,2,Economy,485
+Gulf Air,Riyadh,Jeddah,28/04/2025,02:15,03:12,57m,57,2,Economy,564
+Flyadeal,Medina,Najran,17/09/2025,11:30,15:30,4h 0m,240,2,Economy,1152
+Flynas,Medina,Taif,25/10/2025,13:45,17:31,3h 46m,226,0,Economy,744
+Qatar Airways,Al Qassim,Tabuk,26/10/2025,10:30,11:47,1h 17m,77,1,Economy,578
+Emirates,Al Qassim,Najran,14/09/2025,15:45,20:26,4h 41m,281,0,Economy,1132
+Flyadeal,Al Qassim,Tabuk,04/10/2025,08:30,11:48,3h 18m,198,0,Economy,751
+Emirates,Taif,Medina,18/09/2025,14:15,18:58,4h 43m,283,2,Economy,1200
+Flynas,Tabuk,Hail,28/01/2025,20:00,23:42,3h 42m,222,1,Business,1200
+Gulf Air,Riyadh,Taif,13/07/2025,00:30,04:03,3h 33m,213,0,Business,1200
+Flynas,Jeddah,Tabuk,03/03/2025,21:00,22:45,1h 45m,105,1,Economy,579
+Gulf Air,Taif,Medina,14/01/2025,20:15,01:13,4h 58m,298,1,Economy,1131
+Flyadeal,Tabuk,Hail,27/09/2025,14:00,16:21,2h 21m,141,0,Economy,473
+Gulf Air,Medina,Abha,05/05/2025,22:45,02:39,3h 54m,234,0,Economy,818
+Qatar Airways,Taif,Riyadh,07/06/2025,14:45,16:52,2h 7m,127,1,Economy,709
+Emirates,Najran,Taif,20/09/2025,15:30,17:07,1h 37m,97,0,Economy,520
+Qatar Airways,Abha,Hail,06/01/2025,09:00,13:51,4h 51m,291,0,Economy,1187
+Qatar Airways,Abha,Hail,10/07/2025,07:00,08:32,1h 32m,92,0,Economy,404
+Flynas,Abha,Riyadh,04/02/2025,06:00,07:11,1h 11m,71,0,Economy,258
+Saudia,Riyadh,Jeddah,18/01/2025,17:30,21:00,3h 30m,210,1,Economy,933
+Flynas,Hail,Medina,17/05/2025,09:30,12:09,2h 39m,159,0,Economy,532
+Flynas,Najran,Hail,19/01/2025,10:30,14:38,4h 8m,248,0,Economy,913
+Qatar Airways,Jeddah,Medina,22/04/2025,07:15,10:30,3h 15m,195,2,Economy,1058
+Qatar Airways,Dammam,Jeddah,15/08/2025,04:15,05:17,1h 2m,62,1,Business,745
